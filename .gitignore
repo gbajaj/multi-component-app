@@ -1,0 +1,121 @@
+# Android Studio
+.idea/
+.gradle/
+*.iml
+*.iws
+*.ipr
+*.iws
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.appinstaller
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Android Studio specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Android Studio Gradle files
+.gradle/
+
+# Android Studio cache files
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Android Studio CMake files
+cmake-build-debug/
+cmake-build-release/
+
+# Android Studio External Native Build files
+.externalNativeBuild/
+.cxx/
+
+# Android Studio Build files
+/build/
+/captures/
+
+# Android Studio Local Properties
+local.properties
+
+# Android Studio Signing Configurations
+*.jks
+*.keystore
+
+# Android Studio Test Results
+build/outputs/test-results/
+
+# Android Studio Coverage Reports
+build/outputs/coverage/
+
+# Android Studio Build Cache
+.gradle/caches/
+.gradle/wrapper/
+
+# Android Studio External Libraries
+.idea/libraries/
+
+# Android Studio Navigation Editor
+.navigation/
+
+# Android Studio Layout Editor
+.layoutlib/
+
+# Android Studio Layout Editor Cache
+.layoutlib/cache/
+
+# Android Studio Code Style Settings
+.idea/codeStyles/
+
+# Android Studio VCS Settings
+.idea/vcs/
+
+# Android Studio Run Configurations
+.idea/runConfigurations/
+
+# Android Studio Test Configurations
+.idea/testConfigurations/
+
+# Android Studio Deployment Configurations
+.idea/deploymentConfigurations/
+
+# Android Studio Artifacts
+.idea/artifacts/
+
+# Android Studio Deployment
+.idea/deployment/

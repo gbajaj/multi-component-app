@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Alice Williams",
+        "email": "alice.williams@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Mike Brown",
+        "email": "mike.brown@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    }
+]
