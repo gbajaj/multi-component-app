@@ -6,6 +6,17 @@ An Android application demonstrating a modular UI component system built with Je
 
 This project showcases a flexible architecture where UI components can be dynamically enabled/disabled and reordered. The app features a toggleable component system that allows users to control which components are displayed on the main screen.
 
+## ✨ Screenshots
+
+<p float="left">
+	<img width="300" alt="all" src="https://github.com/user-attachments/assets/fd7a2bb1-6984-4fb5-a5b7-2b089e5c2672" />
+	<img width="300"  alt="no-footer" src="https://github.com/user-attachments/assets/c98f1bc5-482b-4ee9-8bda-8e53dde841c2" />
+	<img width="300" alt="no-header" src="https://github.com/user-attachments/assets/29e76bd1-e24b-448d-bf7f-ab9f199be5ff" />
+	<img width="300"  alt="no-news" src="https://github.com/user-attachments/assets/7a1bdff6-2391-4de9-9936-a3fe931e6c7e" />
+	<img width="300"  alt="no-profile" src="https://github.com/user-attachments/assets/a1640f96-df8c-4b32-a85c-57c82e9518b4" />
+	<img width="300"  alt="no-stats" src="https://github.com/user-attachments/assets/d13288d1-b910-458d-a76a-d26a8da4b362" />
+</p>
+
 ## ✨ Features
 
 - **Dynamic Component System**: Toggle UI components on/off using filter chips
